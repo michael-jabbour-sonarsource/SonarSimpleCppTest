@@ -21,5 +21,4 @@ popd
 sonar-scanner \
   -Dsonar.cfamily.build-wrapper-output=build_analyze_dir/bw-output \
   -Dsonar.cfamily.gcov.reportsPath=build_cov/gcov_dir \
-  -Dsonar.host.url=$SONAR_HOST_URL \
-  -Dsonar.login=$SONAR_LOGIN
+  -Dsonar.host.url=$SONAR_SERVER_URL \

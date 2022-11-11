@@ -3,7 +3,7 @@
 
 mkdir deps
 pushd deps
-curl -sSLO "$SONAR_HOST_URL/static/cpp/build-wrapper-linux-x86.zip"
+curl -sSLO "$SONAR_SERVER_URL/static/cpp/build-wrapper-linux-x86.zip"
 unzip build-wrapper-linux-x86.zip
 export PATH=$PWD/build-wrapper-linux-x86:$PATH
 
