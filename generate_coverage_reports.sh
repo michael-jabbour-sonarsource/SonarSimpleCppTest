@@ -10,5 +10,5 @@ ctest
 
 mkdir gcov_dir
 pushd gcov_dir
-find .. -name '*.gcda' -print0 | xargs -0 -L1 gcov -a -b -c -f -u -p -l
+find .. -name '*.gcda' -print0 | xargs -0 -L1 gcov -a -b -p -l
 popd
