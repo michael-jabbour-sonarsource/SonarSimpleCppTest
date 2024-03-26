@@ -2,6 +2,8 @@
 
 set -e
 
+java --version
+
 # heavily based on examples in https://github.com/sonarsource-cfamily-examples/
 
 mkdir build_analyze_dir
