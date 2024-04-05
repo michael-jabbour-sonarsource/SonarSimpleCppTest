@@ -4,7 +4,7 @@
 
 void f() {
     int x = 0;
-    #include "someheader.h";
+    #include "someheader.h"
 }
 
 
