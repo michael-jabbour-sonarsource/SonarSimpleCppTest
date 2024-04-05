@@ -1,1 +1,1 @@
-std::cout << "Do not print x anymore.\n";
+std::cout << "x: " << x << "\n";
