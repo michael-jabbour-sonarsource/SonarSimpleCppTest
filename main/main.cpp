@@ -21,3 +21,27 @@ class Lines {
         return evenMoreLines;
     }
 };
+class Lines2 {
+    int moreLines() {
+        int evenMoreLines = 0;
+        return evenMoreLines;
+    }
+};
+class Lines3 {
+    int moreLines() {
+        int evenMoreLines = 0;
+        return evenMoreLines;
+    }
+};
+class Lines4 {
+    int moreLines() {
+        int evenMoreLines = 0;
+        return evenMoreLines;
+    }
+};
+class Lines5 {
+    int moreLines() {
+        int evenMoreLines = 0;
+        return evenMoreLines;
+    }
+};
