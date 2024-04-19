@@ -14,3 +14,10 @@ int main() {
     return clamped_add(0u, 0u, 10u);
     /* C comment */
 }
+
+class Lines {
+    int moreLines() {
+        int evenMoreLines = 0;
+        return evenMoreLines;
+    }
+};
