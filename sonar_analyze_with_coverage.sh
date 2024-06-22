@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# remove bash
 set -e
 
 java --version
